@@ -1,6 +1,6 @@
 # Microprocesser-Programming-and-Interfacing
   
-  This repository contains project for Microprocesser-Programming-and-Interfacing at BITS Pilani, Spring 2019.
+  This repository contains project for Microprocesser-Programming-and-Interfacing (CS F241) at BITS Pilani, Spring 2019.
   
 ## Project Problem Statment: 
 
